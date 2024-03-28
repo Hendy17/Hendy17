@@ -25,13 +25,9 @@
 Eu sou um entusiasta da tecnologia e desenvolvedor de sistemas, apaixonado por criar soluções inovadoras e eficientes para os desafios do mundo moderno. Minha jornada no desenvolvimento de software é guiada pela busca contínua de excelência e pelo desejo de contribuir para um futuro digital cada vez mais promissor.
 
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%ABndy-vorpag%C3%A9l/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hendy_vorpagel/)
-
-
 ![Hendy GitHub stats](https://github-readme-stats.vercel.app/api?username=Hendy17&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ## Meu portifólio:
-- [Um pouco sobre mim](https://dulcet-scone-46762b.netlify.app/)
+- [Um pouco sobre mim.](https://dulcet-scone-46762b.netlify.app/)
