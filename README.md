@@ -34,6 +34,8 @@ Eu sou um entusiasta da tecnologia e desenvolvedor de sistemas, apaixonado por c
 
 ![Hendy GitHub stats](https://github-readme-stats.vercel.app/api?username=Hendy17&show_icons=true&bg_color=00000000)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
 
 ## Tecnologias que eu uso
 
